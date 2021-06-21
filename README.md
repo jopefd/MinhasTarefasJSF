@@ -27,7 +27,7 @@ As **MinhasTarefasJSF** é a minha primeira aplicação web em Java: um sistema 
 * [ ] Utilizar testes de unidades
 * [ ] Publicar projeto no Heroku ou outro ambiente cloud
 
-Como pode ser visto na lista acima, este projeto ainda não está finalizado. Algumas das funcionalidades dependem da integração com o banco de dados; destaco, principalmente, a listagem das tarefas. Encontrei alguns problemas com a persistência no banco de dados e estou tentando encontrar e corrigir os erros. 
+Como pode ser visto na lista acima, este projeto ainda não está finalizado. Algumas das funcionalidades dependem da integração com o banco de dados; destaco, principalmente, a listagem das tarefas. Consegui criar e conectar a aplicação ao banco de dados, mas encontrei alguns problemas com a persistência; estou tentando identificar e corrigir os erros. 
 
 # Como testar? 🚀
 
