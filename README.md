@@ -38,3 +38,5 @@ Certifique-se que as versões dos programas instalados no seu computador sejam a
 3. Acesse o link `http://localhost:8080/MinhasTarefas/form.jsf` através do seu navegador
 
 Pronto! Agora é só cadastrar alguma tarefa! Você deve ver as seguintes telas:
+
+![telas de cadastro de uma tarefa: uma com a entrada de dados, outra com a confirmação do cadastro](./Screenshot%20from%202021-06-20%2022-15-44.png)
