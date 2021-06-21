@@ -33,7 +33,7 @@ Como pode ser visto na lista acima, este projeto ainda não está finalizado. Al
 
 Certifique-se que as versões dos programas instalados no seu computador sejam as mesmas que as utilizadas para este projeto. Em seguida:
 
-1. Adicione a pasta do projeto (MinhasTarefas) ao Tomcat
+1. Adicione a pasta do projeto ao Tomcat
 2. Inicie o servidor
 3. Acesse o link `http://localhost:8080/MinhasTarefas/form.jsf` através do seu navegador
 
