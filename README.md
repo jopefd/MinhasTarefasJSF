@@ -29,7 +29,7 @@ As **MinhasTarefasJSF** é a minha primeira aplicação web em Java: um sistema 
 
 Como pode ser visto na lista acima, este projeto ainda não está finalizado. Algumas das funcionalidades dependem da integração com o banco de dados; destaco, principalmente, a listagem das tarefas. Consegui criar e conectar a aplicação ao banco de dados, mas encontrei alguns problemas com a persistência; estou tentando identificar e corrigir os erros. 
 
-# Como testar? 🚀
+## Como testar? 🚀
 
 Certifique-se que as versões dos programas instalados no seu computador sejam as mesmas que as utilizadas para este projeto. Em seguida:
 
